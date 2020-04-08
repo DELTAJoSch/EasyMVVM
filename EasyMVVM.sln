@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyMVVM", "EasyMVVM\EasyMVVM.csproj", "{CAAECDFC-C4AD-4600-87AD-C0569F944511}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Description = This DLL contains base implementations for the MVVM pattern
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAAECDFC-C4AD-4600-87AD-C0569F944511}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAAECDFC-C4AD-4600-87AD-C0569F944511}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAAECDFC-C4AD-4600-87AD-C0569F944511}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAAECDFC-C4AD-4600-87AD-C0569F944511}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {036FCCA0-050A-4108-9DDE-B169B49EA601}
+	EndGlobalSection
+EndGlobal
