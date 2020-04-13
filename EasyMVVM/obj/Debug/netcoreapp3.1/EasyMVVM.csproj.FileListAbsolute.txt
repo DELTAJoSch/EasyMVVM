@@ -1,0 +1,8 @@
+H:\Dokumente\C# Libraries\EasyMVVM\EasyMVVM\bin\Debug\netcoreapp3.1\EasyMVVM.deps.json
+H:\Dokumente\C# Libraries\EasyMVVM\EasyMVVM\bin\Debug\netcoreapp3.1\EasyMVVM.dll
+H:\Dokumente\C# Libraries\EasyMVVM\EasyMVVM\bin\Debug\netcoreapp3.1\EasyMVVM.pdb
+H:\Dokumente\C# Libraries\EasyMVVM\EasyMVVM\obj\Debug\netcoreapp3.1\EasyMVVM.csprojAssemblyReference.cache
+H:\Dokumente\C# Libraries\EasyMVVM\EasyMVVM\obj\Debug\netcoreapp3.1\EasyMVVM.AssemblyInfoInputs.cache
+H:\Dokumente\C# Libraries\EasyMVVM\EasyMVVM\obj\Debug\netcoreapp3.1\EasyMVVM.AssemblyInfo.cs
+H:\Dokumente\C# Libraries\EasyMVVM\EasyMVVM\obj\Debug\netcoreapp3.1\EasyMVVM.dll
+H:\Dokumente\C# Libraries\EasyMVVM\EasyMVVM\obj\Debug\netcoreapp3.1\EasyMVVM.pdb
