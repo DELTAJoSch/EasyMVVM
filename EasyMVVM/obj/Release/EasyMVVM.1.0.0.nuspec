@@ -3,16 +3,23 @@
   <metadata>
     <id>EasyMVVM</id>
     <version>1.0.0</version>
-    <authors>Johannes Schiemer</authors>
-    <owners>Johannes Schiemer</owners>
-    <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>A lightweight MVVM Framework</description>
-    <copyright>GNU-GPLV3</copyright>
+    <authors>DeltaJoSch</authors>
+    <owners>DeltaJoSch</owners>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <license type="file">license.txt</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <projectUrl>https://github.com/DELTAJoSch/EasyMVVM/wiki</projectUrl>
+    <description>A lightweight MVVM Framework.</description>
+    <releaseNotes>Release 1.0.0.0</releaseNotes>
+    <copyright>Copyright 2020, DeltaJoSch</copyright>
+    <tags>WPF</tags>
+    <repository type="GitHub" url="https://github.com/DELTAJoSch/EasyMVVM/tree/master" />
     <dependencies>
       <group targetFramework=".NETCoreApp3.1" />
     </dependencies>
   </metadata>
   <files>
     <file src="H:\Dokumente\C# Libraries\EasyMVVM\EasyMVVM\bin\Release\netcoreapp3.1\EasyMVVM.dll" target="lib\netcoreapp3.1\EasyMVVM.dll" />
+    <file src="H:\Dokumente\C# Libraries\EasyMVVM\license.txt" target="license.txt" />
   </files>
 </package>

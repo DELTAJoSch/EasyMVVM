@@ -2,12 +2,27 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <Authors>Johannes Schiemer</Authors>
-    <Description>A lightweight MVVM Framework</Description>
-    <Copyright>GNU-GPLV3</Copyright>
+    <Authors>DeltaJoSch</Authors>
+    <Description>A lightweight MVVM Framework.</Description>
+    <Copyright>Copyright 2020, DeltaJoSch</Copyright>
     <SignAssembly>true</SignAssembly>
     <AssemblyOriginatorKeyFile>EasyMVVM.pfx</AssemblyOriginatorKeyFile>
     <DelaySign>false</DelaySign>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <PackageProjectUrl>https://github.com/DELTAJoSch/EasyMVVM/wiki</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/DELTAJoSch/EasyMVVM/tree/master</RepositoryUrl>
+    <RepositoryType>GitHub</RepositoryType>
+    <PackageTags>WPF</PackageTags>
+    <PackageReleaseNotes>Release 1.0.0.0</PackageReleaseNotes>
+    <PackageLicenseFile>license.txt</PackageLicenseFile>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\license.txt">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
 
 </Project>
