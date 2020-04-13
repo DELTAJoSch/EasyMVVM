@@ -16,6 +16,7 @@
     <PackageTags>WPF</PackageTags>
     <PackageReleaseNotes>Release 1.0.0.0</PackageReleaseNotes>
     <PackageLicenseFile>license.txt</PackageLicenseFile>
+    <PackageId>Easy_MVVM</PackageId>
   </PropertyGroup>
 
   <ItemGroup>
