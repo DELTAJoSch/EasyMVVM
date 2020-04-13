@@ -19,7 +19,7 @@
     </dependencies>
   </metadata>
   <files>
-    <file src="H:\Dokumente\C# Libraries\EasyMVVM\EasyMVVM\bin\Release\netcoreapp3.1\EasyMVVM.dll" target="lib\netcoreapp3.1\EasyMVVM.dll" />
+    <file src="H:\Dokumente\C# Libraries\EasyMVVM\EasyMVVM\bin\Debug\netcoreapp3.1\EasyMVVM.dll" target="lib\netcoreapp3.1\EasyMVVM.dll" />
     <file src="H:\Dokumente\C# Libraries\EasyMVVM\license.txt" target="license.txt" />
   </files>
 </package>
